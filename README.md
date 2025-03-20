@@ -6,6 +6,12 @@ This Streamlit application implements a Multimodal Retrieval-Augmented Generatio
 
 The system utilizes LlamaIndex for efficient indexing and retrieval of information, NIM microservices for high-performance inference capabilities, and Milvus as a vector database for efficient storage and retrieval of embedding vectors. This combination of technologies enables the application to handle complex multimodal data, perform advanced queries, and deliver rapid, context-aware responses to user inquiries.
 
+## Architecture
+![App Screenshot](media/arch.png)
+
+## Application
+![App Screenshot](media/app.png)
+
 ## Features
 
 - **Multi-format Document Processing**: Handles text files, PDFs, PowerPoint presentations, and images.
